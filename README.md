@@ -80,6 +80,14 @@ Versellax -u gokulnair2001 -t xxxxxxxxxxxxxxxxx -l /Users/gokul/Desktop/Untitled
 |--|--|
 | <img width="815" alt="3" src="https://user-images.githubusercontent.com/56252259/171431581-c80b0b9a-e3d3-4bbb-af56-5d42d06e5583.png"> |  <img width="815" alt="Screenshot 2022-06-01 at 8 16 55 PM" src="https://user-images.githubusercontent.com/56252259/171434162-ef7312a0-1125-4ab4-88ca-424fab2cd67c.png">|
 
+## Libraries 📒
+| 1 | 2 | 3 |
+|--|--|--|
+| Click | CSV | OS |
+| JSON | SYS| Request |
+| Pyfiglet | Version | Path |
+| Urlparse | Urlopen | Github |
+
 ## Warnings ⚠️
 * Right now the tool can only work on JS based repository which have ```Package.json``` and ```Package_Lock.json``` files
 * The tools right now dont cover all the edge cases, it will be solved in future updates
