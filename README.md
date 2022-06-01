@@ -29,12 +29,12 @@ Versella -i /Users/gokul/Desktop/Untitled.csv axios@0.23.0
 * The tool provides a feature where all the rep which are under given version number will be forked to the users account, such that the user can directly make changes from the GitHub GUI app and create a PR
 
 ```python
-Versella -u -i {location} {abstract} -t {token}
+versella -u -i {location} {abstract} -t {token}
 ```
 
 #### Example
 ```python
-Versella -u -i /Users/gokul/Desktop/Untitled.csv axios@0.23.0 -t xxxxxxxxxxxxxxxxxxxxxxxxx
+versella -u -i /Users/gokul/Desktop/Untitled.csv axios@0.23.0 -t xxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 * Location and abstract is the same as mentioned above
 * Here ```-u``` denotes the updation requirement to versella
@@ -49,7 +49,15 @@ Versella -u -i /Users/gokul/Desktop/Untitled.csv axios@0.23.0 -t xxxxxxxxxxxxxxx
 * This feature helps user to find various forms of repo on which updates are to be made.
 
 ```python
+versellax -u {username} -t {token} -l {example location}
 ```
+#### Example
+```python
+versellax -u gokulnair2001 -t xxxxxxxxxxxxxxxxx -l /Users/gokul/Desktop/Untitled.csv
+```
+* ```-u``` denotes the username of the user
+* ```-t``` denotes the user OAuth token
+* ```-l``` example location for versella to save the results
 
 ## Snapshots
 
