@@ -83,7 +83,15 @@ Versellax -u gokulnair2001 -t xxxxxxxxxxxxxxxxx -l /Users/gokul/Desktop/Untitled
 * The tools right now dont cover all the edge cases, it will be solved in future updates
 * Make sure you enter the input as mentioned in the example
 
-## How to contribute?
+## License ⚖️
+
+Versella is available under the MIT license. See the [LICENSE](https://github.com/dyte-submissions/dyte-vit-2022-gokulnair2001/license) file for more info.
+
+## How to Contribute 🖋
+* Run the app - Steps are mentioned above.
+* If you face issues in any step open a new issue.
+* To fix issues: Fork this repository, make your changes and make a Pull Request.
+
 
 ## Developer 👨🏻‍💻
 
