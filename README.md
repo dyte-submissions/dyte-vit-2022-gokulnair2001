@@ -96,5 +96,5 @@ Versella is available under the MIT license. See the [LICENSE](https://github.co
 
 
 <p align="center" width="100%">
-   Made with ❤️ in 🇮🇳 By [Gokul Nair](https://github.com/gokulnair2001)   
+   Made with ❤️ in 🇮🇳 By Gokul Nair   
 </p>
