@@ -60,21 +60,29 @@ Versellax -u gokulnair2001 -t xxxxxxxxxxxxxxxxx -l /Users/gokul/Desktop/Untitled
 * ```-l``` example location for versella to save the results
 
 ## Snapshots
-1. Version Check
+### 1. Version Check
 
-<img width="815" alt="1" src="https://user-images.githubusercontent.com/56252259/171429350-be8ae5d8-53af-45b7-9607-4cc16c0fe444.png">
+| Input | Output |
+|--|--|
+| <img width="815" alt="1" src="https://user-images.githubusercontent.com/56252259/171429350-be8ae5d8-53af-45b7-9607-4cc16c0fe444.png"> | <img width="815" alt="Screenshot 2022-06-01 at 8 13 48 PM" src="https://user-images.githubusercontent.com/56252259/171433430-b1a49a7d-68be-43f9-a374-69236ef11bc7.png"> |
 
-2. Update
+### 2. Update
 
-<img width="815" alt="2" src="https://user-images.githubusercontent.com/56252259/171430348-eb48d2a8-ffcb-468a-bc20-eee1c3ca058f.png">
+| Input | Output |
+|--|--|
+| <img width="815" alt="2" src="https://user-images.githubusercontent.com/56252259/171430348-eb48d2a8-ffcb-468a-bc20-eee1c3ca058f.png"> |  <img width="815" alt="Screenshot 2022-06-01 at 8 18 28 PM" src="https://user-images.githubusercontent.com/56252259/171434005-e4b58889-9ba4-47fa-bade-2de8aeaae202.png">|
 
-3. Get Repositories
+### 3. Get Repositories
 
-<img width="815" alt="3" src="https://user-images.githubusercontent.com/56252259/171431581-c80b0b9a-e3d3-4bbb-af56-5d42d06e5583.png">
+| Input | Output |
+|--|--|
+| <img width="815" alt="3" src="https://user-images.githubusercontent.com/56252259/171431581-c80b0b9a-e3d3-4bbb-af56-5d42d06e5583.png"> |  <img width="815" alt="Screenshot 2022-06-01 at 8 16 55 PM" src="https://user-images.githubusercontent.com/56252259/171434162-ef7312a0-1125-4ab4-88ca-424fab2cd67c.png">|
 
-
-
-## VersellaX
 ## Warnings
+* Right now the tool can only work on JS based repository which have ```Package.json``` and ```Package_Lock.json``` files
+* The tools right now dont cover all the edge cases, it will be solved in future updates
+* Make sure you enter the input as mentioned in the example
+
 ## How to contribute?
+
 ## Developer
