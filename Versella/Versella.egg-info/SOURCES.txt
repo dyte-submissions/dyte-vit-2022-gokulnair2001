@@ -1,0 +1,7 @@
+setup.py
+Versella.egg-info/PKG-INFO
+Versella.egg-info/SOURCES.txt
+Versella.egg-info/dependency_links.txt
+Versella.egg-info/entry_points.txt
+Versella.egg-info/requires.txt
+Versella.egg-info/top_level.txt

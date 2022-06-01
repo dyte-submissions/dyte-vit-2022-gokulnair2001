@@ -1,0 +1,5 @@
+
+    [console_scripts]
+    versella=cli:cli
+    versellaX=cli:find
+    
