@@ -9,23 +9,50 @@ Versella is a Python based **CLI** used to do version check on various types of 
 4. You are ready to use **Versella**, go through the Usage rules to understand the CLI tool properly.
 
 ## How to use?
-* Versella majorly have three main features right now
+Versella majorly have three main features right now
 
 1. Version Check
-The tool checks the versions of all the repo given to it in a file and denotes which repo is in lower version an which is in higher.
+* The tool checks the versions of all the repo given to it in a file and denotes which repo is in lower version an which is in higher.
+```python
+Versella -i {location} {abstract}
+```
+#### Example
+```python
+Versella -i /Users/gokul/Desktop/Untitled.csv axios@0.23.0
+```
+* ```-i``` denotes the input option for versella 
+* Here the location must be of the file which consists of the repo details
+* The input file must have two headers which is ```name``` & ```repo```
+* The abstract section consists of the current axios for which version is to be checked
 
 2. Update Repos
-The tool provides a feature where all the rep which are under given version number will be forked to the users account, such that the user can directly make changes from the GitHub GUI app and create a PR
+* The tool provides a feature where all the rep which are under given version number will be forked to the users account, such that the user can directly make changes from the GitHub GUI app and create a PR
+
+```python
+Versella -u -i {location} {abstract} -t {token}
+```
+
+#### Example
+```python
+Versella -u -i /Users/gokul/Desktop/Untitled.csv axios@0.23.0 -t xxxxxxxxxxxxxxxxxxxxxxxxx
+```
+* Location and abstract is the same as mentioned above
+* Here ```-u``` denotes the updation requirement to versella
+* On using ```-u``` Versella will fork the Repositories which are in lower versions to users account such that user can directly make changes through GitHub GUI and create a PR
+* ```-t``` inorder to fork the repo **Versella** needs to identify the foking user, thus the user need to pass the ```OAuth``` token og GitHub to versella
+#### [OAuth?](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+* Go to Github GUI and then: ```Settings > Developer Settings > Personal Token > Generate Token```
 
 3. Get All
 * Versell have a subordinatory tool system called ```VersellaX``` which is used to automate GitHub Actions.
 * Right now **VersellaX** ca be used to fetch all the repos of user with various details regarding it.
 * This feature helps user to find various forms of repo on which updates are to be made.
 
-### Note
-The input file must have two headers which is ```name``` & ```repo```
+```python
+```
 
 ## Snapshots
+
 ## VersellaX
 ## Warnings
 ## How to contribute?
