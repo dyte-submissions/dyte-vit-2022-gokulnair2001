@@ -1,5 +1,5 @@
 # Versella⚡️
-Versella is a Python based **CLI** used to do version check on various types of repositories and update them if version is lower.
+**Versella** is a Python based **CLI** used to do version check on various types of repositories and update them. **Versella** comes with a additional tooling system called **VersellaX** which is used to automate various Github Actions
 
 ## How to Install?
 * Installing Versella is realy easy and simple, just folow three steps and you are ready to use **Versella**
