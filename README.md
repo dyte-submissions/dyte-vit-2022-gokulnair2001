@@ -85,7 +85,7 @@ Versellax -u gokulnair2001 -t xxxxxxxxxxxxxxxxx -l /Users/gokul/Desktop/Untitled
 
 ## License ⚖️
 
-Versella is available under the MIT license. See the [LICENSE](https://github.com/dyte-submissions/dyte-vit-2022-gokulnair2001/license) file for more info.
+Versella is available under the MIT license. See the [LICENSE](https://github.com/dyte-submissions/dyte-vit-2022-gokulnair2001/blob/master/license) file for more info.
 
 ## How to Contribute 🖋
 * Run the app - Steps are mentioned above.
@@ -95,12 +95,6 @@ Versella is available under the MIT license. See the [LICENSE](https://github.co
 
 ## Developer 👨🏻‍💻
 
-|                                                                                         <a href="https://gokulnair2001.wixsite.com/mysite"><img src="https://user-images.githubusercontent.com/56252259/115108478-482ccc80-9f8e-11eb-94a0-430db46a432f.png" width=150px height=160px /></a>                                                                                         |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                                                        **[Gokul Nair](https://www.linkedin.com/in/gokul-r-nair/)**                                                                                                                                        |
-| <a href="https://www.instagram.com/_gokul_r_nair_/"><img src="https://user-images.githubusercontent.com/56252259/114969025-24d22680-9e95-11eb-848d-b20e73269c4c.png" width="32px" height="32px"></a> <a href="https://twitter.com/itIsGokulNair"><img src="https://user-images.githubusercontent.com/56252259/114967867-d6bc2380-9e92-11eb-8f89-c437f39a45de.png" width="32px" height="32px"></a>  <a href="https://www.linkedin.com/in/gokul-r-nair/"><img src="https://user-images.githubusercontent.com/56252259/114967871-d7ed5080-9e92-11eb-8781-cd7cf9bb52db.png" width="32px" height="32px"></a> |
-
-
 <p align="center" width="100%">
-   Made with ❤️ in 🇮🇳 By Gokul Nair   
+   Made with ❤️ in 🇮🇳 By [Gokul Nair](https://github.com/gokulnair2001)   
 </p>
