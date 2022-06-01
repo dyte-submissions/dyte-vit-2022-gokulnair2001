@@ -1,6 +1,7 @@
 
 
-<img width="328" alt="Screenshot 2022-06-01 at 8 38 10 PM" src="https://user-images.githubusercontent.com/56252259/171437575-df148877-8fb5-4eb1-a73f-326657ccb3a3.png">
+<img width="328" alt="Screenshot_2022-06-01_at_8 38 10_PM-removebg-preview" src="https://user-images.githubusercontent.com/56252259/171437857-723744fa-031f-40ac-a83b-849f0dd61cbc.png">
+
 
 **Versella⚡️** is a Python based **CLI** used to do version check on various types of repositories and update them. **Versella** comes with a additional tooling system called **VersellaX** which is used to automate various Github Actions
 
