@@ -1,14 +1,14 @@
 # Versella⚡️
 **Versella** is a Python based **CLI** used to do version check on various types of repositories and update them. **Versella** comes with a additional tooling system called **VersellaX** which is used to automate various Github Actions
 
-## How to Install?
+## How to Install? 🌎
 * Installing Versella is realy easy and simple, just folow three steps and you are ready to use **Versella**
 1. Clone/Download the repo
 2. Cd into the repo through the terinal
 3. Then write ``` pip3 install --editable .```
 4. You are ready to use **Versella**, go through the Usage rules to understand the CLI tool properly.
 
-## How to use?
+## How to use? ⚙️
 Versella majorly have three main features right now
 
 1. Version Check
@@ -40,7 +40,8 @@ Versella -u -i /Users/gokul/Desktop/Untitled.csv axios@0.23.0 -t xxxxxxxxxxxxxxx
 * Here ```-u``` denotes the updation requirement to versella
 * On using ```-u``` Versella will fork the Repositories which are in lower versions to users account such that user can directly make changes through GitHub GUI and create a PR
 * ```-t``` inorder to fork the repo **Versella** needs to identify the foking user, thus the user need to pass the ```OAuth``` token og GitHub to versella
-#### [OAuth?](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+
+### [OAuth?](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 * Go to Github GUI and then: ```Settings > Developer Settings > Personal Token > Generate Token```
 
 3. Get Repositories 
@@ -59,7 +60,8 @@ Versellax -u gokulnair2001 -t xxxxxxxxxxxxxxxxx -l /Users/gokul/Desktop/Untitled
 * ```-t``` denotes the user OAuth token
 * ```-l``` example location for versella to save the results
 
-## Snapshots
+## Snapshots 📸
+
 ### 1. Version Check
 
 | Input | Output |
@@ -78,7 +80,7 @@ Versellax -u gokulnair2001 -t xxxxxxxxxxxxxxxxx -l /Users/gokul/Desktop/Untitled
 |--|--|
 | <img width="815" alt="3" src="https://user-images.githubusercontent.com/56252259/171431581-c80b0b9a-e3d3-4bbb-af56-5d42d06e5583.png"> |  <img width="815" alt="Screenshot 2022-06-01 at 8 16 55 PM" src="https://user-images.githubusercontent.com/56252259/171434162-ef7312a0-1125-4ab4-88ca-424fab2cd67c.png">|
 
-## Warnings
+## Warnings ⚠️
 * Right now the tool can only work on JS based repository which have ```Package.json``` and ```Package_Lock.json``` files
 * The tools right now dont cover all the edge cases, it will be solved in future updates
 * Make sure you enter the input as mentioned in the example
@@ -92,8 +94,6 @@ Versella is available under the MIT license. See the [LICENSE](https://github.co
 * If you face issues in any step open a new issue.
 * To fix issues: Fork this repository, make your changes and make a Pull Request.
 
-
-## Developer 👨🏻‍💻
 
 <p align="center" width="100%">
    Made with ❤️ in 🇮🇳 By [Gokul Nair](https://github.com/gokulnair2001)   
